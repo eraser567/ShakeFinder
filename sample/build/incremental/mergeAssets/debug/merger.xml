@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComAstuetzLibrary101.aar" >
+        <source path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/build/exploded-bundles/ComAstuetzLibrary101.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets" >
+            <file
+                name="vis2/dist/img/graph/acceptDeleteIcon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/acceptDeleteIcon.png" />
+            <file
+                name="vis2/dist/img/graph/addNodeIcon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/addNodeIcon.png" />
+            <file
+                name="vis2/dist/img/graph/addTripleIcon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/addTripleIcon.png" />
+            <file
+                name="vis2/dist/img/graph/addTripleIcon2.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/addTripleIcon2.png" />
+            <file
+                name="vis2/dist/img/graph/backIcon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/backIcon.png" />
+            <file
+                name="vis2/dist/img/graph/connectIcon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/connectIcon.png" />
+            <file
+                name="vis2/dist/img/graph/cross.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/cross.png" />
+            <file
+                name="vis2/dist/img/graph/cross2.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/cross2.png" />
+            <file
+                name="vis2/dist/img/graph/deleteIcon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/deleteIcon.png" />
+            <file
+                name="vis2/dist/img/graph/downArrow.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/downArrow.png" />
+            <file
+                name="vis2/dist/img/graph/editIcon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/editIcon.png" />
+            <file
+                name="vis2/dist/img/graph/leftArrow.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/leftArrow.png" />
+            <file
+                name="vis2/dist/img/graph/minus.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/minus.png" />
+            <file
+                name="vis2/dist/img/graph/outputIcon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/outputIcon.png" />
+            <file
+                name="vis2/dist/img/graph/outputIcon2.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/outputIcon2.png" />
+            <file
+                name="vis2/dist/img/graph/plus.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/plus.png" />
+            <file
+                name="vis2/dist/img/graph/rightArrow.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/rightArrow.png" />
+            <file
+                name="vis2/dist/img/graph/upArrow.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/upArrow.png" />
+            <file
+                name="vis2/dist/img/graph/zoomExtends.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/graph/zoomExtends.png" />
+            <file
+                name="vis2/dist/img/timeline/delete.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/img/timeline/delete.png" />
+            <file
+                name="vis2/dist/myfunction.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/myfunction.js" />
+            <file
+                name="vis2/dist/vis.css"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/vis.css" />
+            <file
+                name="vis2/dist/vis.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/vis.js" />
+            <file
+                name="vis2/dist/vis.min.css"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/vis.min.css" />
+            <file
+                name="vis2/dist/vis.min.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/dist/vis.min.js" />
+            <file
+                name="vis2/docs/css/prettify.css"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/css/prettify.css" />
+            <file
+                name="vis2/docs/css/style.css"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/css/style.css" />
+            <file
+                name="vis2/docs/dataset.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/dataset.html" />
+            <file
+                name="vis2/docs/dataview.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/dataview.html" />
+            <file
+                name="vis2/docs/graph.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/graph.html" />
+            <file
+                name="vis2/docs/img/graph/graph.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/img/graph/graph.png" />
+            <file
+                name="vis2/docs/img/graph/graph120x60.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/img/graph/graph120x60.png" />
+            <file
+                name="vis2/docs/img/timeline/timeline.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/img/timeline/timeline.png" />
+            <file
+                name="vis2/docs/img/timeline/timeline120x60.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/img/timeline/timeline120x60.png" />
+            <file
+                name="vis2/docs/img/vis_overview.odg"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/img/vis_overview.odg" />
+            <file
+                name="vis2/docs/img/vis_overview.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/img/vis_overview.png" />
+            <file
+                name="vis2/docs/index.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/index.html" />
+            <file
+                name="vis2/docs/lib/prettify/lang-apollo.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-apollo.js" />
+            <file
+                name="vis2/docs/lib/prettify/lang-css.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-css.js" />
+            <file
+                name="vis2/docs/lib/prettify/lang-hs.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-hs.js" />
+            <file
+                name="vis2/docs/lib/prettify/lang-lisp.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-lisp.js" />
+            <file
+                name="vis2/docs/lib/prettify/lang-lua.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-lua.js" />
+            <file
+                name="vis2/docs/lib/prettify/lang-ml.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-ml.js" />
+            <file
+                name="vis2/docs/lib/prettify/lang-proto.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-proto.js" />
+            <file
+                name="vis2/docs/lib/prettify/lang-scala.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-scala.js" />
+            <file
+                name="vis2/docs/lib/prettify/lang-sql.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-sql.js" />
+            <file
+                name="vis2/docs/lib/prettify/lang-vb.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-vb.js" />
+            <file
+                name="vis2/docs/lib/prettify/lang-vhdl.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-vhdl.js" />
+            <file
+                name="vis2/docs/lib/prettify/lang-wiki.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-wiki.js" />
+            <file
+                name="vis2/docs/lib/prettify/lang-yaml.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/lang-yaml.js" />
+            <file
+                name="vis2/docs/lib/prettify/prettify.css"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/prettify.css" />
+            <file
+                name="vis2/docs/lib/prettify/prettify.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/lib/prettify/prettify.js" />
+            <file
+                name="vis2/docs/timeline.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/docs/timeline.html" />
+            <file
+                name="vis2/examples/graph/01_basic_usage.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/01_basic_usage.html" />
+            <file
+                name="vis2/examples/graph/02_random_nodes.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/02_random_nodes.html" />
+            <file
+                name="vis2/examples/graph/03_images.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/03_images.html" />
+            <file
+                name="vis2/examples/graph/04_shapes.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/04_shapes.html" />
+            <file
+                name="vis2/examples/graph/05_social_network.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/05_social_network.html" />
+            <file
+                name="vis2/examples/graph/06_groups.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/06_groups.html" />
+            <file
+                name="vis2/examples/graph/07_selections.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/07_selections.html" />
+            <file
+                name="vis2/examples/graph/08_mobile_friendly.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/08_mobile_friendly.html" />
+            <file
+                name="vis2/examples/graph/09_sizing.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/09_sizing.html" />
+            <file
+                name="vis2/examples/graph/10_multiline_text.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/10_multiline_text.html" />
+            <file
+                name="vis2/examples/graph/11_custom_style.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/11_custom_style.html" />
+            <file
+                name="vis2/examples/graph/12_scalable_images.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/12_scalable_images.html" />
+            <file
+                name="vis2/examples/graph/13_dashed_lines.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/13_dashed_lines.html" />
+            <file
+                name="vis2/examples/graph/14_dot_language.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/14_dot_language.html" />
+            <file
+                name="vis2/examples/graph/15_dot_language_playground.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/15_dot_language_playground.html" />
+            <file
+                name="vis2/examples/graph/16_dynamic_data.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/16_dynamic_data.html" />
+            <file
+                name="vis2/examples/graph/17_network_info.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/17_network_info.html" />
+            <file
+                name="vis2/examples/graph/18_fully_random_nodes_clustering.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/18_fully_random_nodes_clustering.html" />
+            <file
+                name="vis2/examples/graph/19_scale_free_graph_clustering.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/19_scale_free_graph_clustering.html" />
+            <file
+                name="vis2/examples/graph/20_navigation.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/20_navigation.html" />
+            <file
+                name="vis2/examples/graph/21_data_manipulation.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/21_data_manipulation.html" />
+            <file
+                name="vis2/examples/graph/22_les_miserables.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/22_les_miserables.html" />
+            <file
+                name="vis2/examples/graph/23_hierarchical_layout.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/23_hierarchical_layout.html" />
+            <file
+                name="vis2/examples/graph/24_hierarchical_layout_userdefined.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/24_hierarchical_layout_userdefined.html" />
+            <file
+                name="vis2/examples/graph/25_physics_configuration.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/25_physics_configuration.html" />
+            <file
+                name="vis2/examples/graph/graphviz/data/fsm.gv.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/data/fsm.gv.txt" />
+            <file
+                name="vis2/examples/graph/graphviz/data/hello.gv.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/data/hello.gv.txt" />
+            <file
+                name="vis2/examples/graph/graphviz/data/process.gv.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/data/process.gv.txt" />
+            <file
+                name="vis2/examples/graph/graphviz/data/siblings.gv.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/data/siblings.gv.txt" />
+            <file
+                name="vis2/examples/graph/graphviz/data/softmaint.gv.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/data/softmaint.gv.txt" />
+            <file
+                name="vis2/examples/graph/graphviz/data/traffic_lights.gv.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/data/traffic_lights.gv.txt" />
+            <file
+                name="vis2/examples/graph/graphviz/data/transparency.gv.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/data/transparency.gv.txt" />
+            <file
+                name="vis2/examples/graph/graphviz/data/twopi2.gv.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/data/twopi2.gv.txt" />
+            <file
+                name="vis2/examples/graph/graphviz/data/unix.gv.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/data/unix.gv.txt" />
+            <file
+                name="vis2/examples/graph/graphviz/data/world.gv.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/data/world.gv.txt" />
+            <file
+                name="vis2/examples/graph/graphviz/graphviz_gallery.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/graphviz_gallery.html" />
+            <file
+                name="vis2/examples/graph/graphviz/screenshots/fsm.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/screenshots/fsm.png" />
+            <file
+                name="vis2/examples/graph/graphviz/screenshots/hello.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/screenshots/hello.png" />
+            <file
+                name="vis2/examples/graph/graphviz/screenshots/softmaint.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/screenshots/softmaint.png" />
+            <file
+                name="vis2/examples/graph/graphviz/screenshots/traffic_lights.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/graphviz/screenshots/traffic_lights.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Hardware-Fax-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Hardware-Fax-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Hardware-Laptop-1-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Hardware-Laptop-1-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Hardware-Mobile-Phone-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Hardware-Mobile-Phone-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Hardware-My-Computer-3-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Hardware-My-Computer-3-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Hardware-My-PDA-02-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Hardware-My-PDA-02-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Hardware-My-PDA-04-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Hardware-My-PDA-04-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Hardware-My-PDA-05-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Hardware-My-PDA-05-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Hardware-My-Phone-Picture-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Hardware-My-Phone-Picture-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Hardware-Printer-Blue-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Hardware-Printer-Blue-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/license.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/license.txt" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Misc-Scanner-default-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Misc-Scanner-default-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Network-Drive-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Network-Drive-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Network-Internet-Connection-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Network-Internet-Connection-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/Network-Pipe-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/Network-Pipe-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/System-Firewall-2-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/System-Firewall-2-icon.png" />
+            <file
+                name="vis2/examples/graph/img/refresh-cl/System-Globe-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/refresh-cl/System-Globe-icon.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/Document-icon24.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/Document-icon24.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/Document-icon32.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/Document-icon32.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/Document-icon48.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/Document-icon48.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/Email-icon24.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/Email-icon24.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/Email-icon32.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/Email-icon32.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/Email-icon48.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/Email-icon48.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/Folder-icon24.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/Folder-icon24.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/Folder-icon32.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/Folder-icon32.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/Folder-icon48.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/Folder-icon48.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/Folder-icon64.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/Folder-icon64.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/license.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/license.txt" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/Smiley-Angry-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/Smiley-Angry-icon.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/Smiley-Grin-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/Smiley-Grin-icon.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/User-Administrator-Blue-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/User-Administrator-Blue-icon.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/User-Administrator-Green-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/User-Administrator-Green-icon.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/User-Coat-Blue-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/User-Coat-Blue-icon.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/User-Coat-Green-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/User-Coat-Green-icon.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/User-Coat-Red-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/User-Coat-Red-icon.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/User-Executive-Green-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/User-Executive-Green-icon.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/User-Preppy-Blue-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/User-Preppy-Blue-icon.png" />
+            <file
+                name="vis2/examples/graph/img/soft-scraps-icons/User-Preppy-Red-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/img/soft-scraps-icons/User-Preppy-Red-icon.png" />
+            <file
+                name="vis2/examples/graph/index.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/graph/index.html" />
+            <file
+                name="vis2/examples/index.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/index.html" />
+            <file
+                name="vis2/examples/timeline/01_basic.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/01_basic.html" />
+            <file
+                name="vis2/examples/timeline/02_dataset.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/02_dataset.html" />
+            <file
+                name="vis2/examples/timeline/03_much_data.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/03_much_data.html" />
+            <file
+                name="vis2/examples/timeline/04_html_data.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/04_html_data.html" />
+            <file
+                name="vis2/examples/timeline/05_groups.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/05_groups.html" />
+            <file
+                name="vis2/examples/timeline/06_event_listeners.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/06_event_listeners.html" />
+            <file
+                name="vis2/examples/timeline/07_custom_time_bar.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/07_custom_time_bar.html" />
+            <file
+                name="vis2/examples/timeline/08_edit_items.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/08_edit_items.html" />
+            <file
+                name="vis2/examples/timeline/img/attachment-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/img/attachment-icon.png" />
+            <file
+                name="vis2/examples/timeline/img/blog-post-edit-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/img/blog-post-edit-icon.png" />
+            <file
+                name="vis2/examples/timeline/img/comments-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/img/comments-icon.png" />
+            <file
+                name="vis2/examples/timeline/img/community-users-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/img/community-users-icon.png" />
+            <file
+                name="vis2/examples/timeline/img/Hardware-Mobile-Phone-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/img/Hardware-Mobile-Phone-icon.png" />
+            <file
+                name="vis2/examples/timeline/img/license.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/img/license.txt" />
+            <file
+                name="vis2/examples/timeline/img/license_aesthetica-2.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/img/license_aesthetica-2.txt" />
+            <file
+                name="vis2/examples/timeline/img/license_refresh-cl.txt"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/img/license_refresh-cl.txt" />
+            <file
+                name="vis2/examples/timeline/img/mail-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/img/mail-icon.png" />
+            <file
+                name="vis2/examples/timeline/img/notes-edit-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/img/notes-edit-icon.png" />
+            <file
+                name="vis2/examples/timeline/img/product-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/img/product-icon.png" />
+            <file
+                name="vis2/examples/timeline/img/truck-icon.png"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/img/truck-icon.png" />
+            <file
+                name="vis2/examples/timeline/index.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/index.html" />
+            <file
+                name="vis2/examples/timeline/requirejs/requirejs_example.html"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/requirejs/requirejs_example.html" />
+            <file
+                name="vis2/examples/timeline/requirejs/scripts/main.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/requirejs/scripts/main.js" />
+            <file
+                name="vis2/examples/timeline/requirejs/scripts/require.js"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/examples/timeline/requirejs/scripts/require.js" />
+            <file
+                name="vis2/HISTORY.md"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/HISTORY.md" />
+            <file
+                name="vis2/LICENSE"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/LICENSE" />
+            <file
+                name="vis2/NOTICE"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/NOTICE" />
+            <file
+                name="vis2/README.md"
+                path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/main/assets/vis2/README.md" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/src/debug/assets" />
+    </dataSet>
+
+</merger>

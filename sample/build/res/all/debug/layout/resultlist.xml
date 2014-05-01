@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF">
+
+    <ImageView android:id="@+id/result_image"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/usericon"
+        android:paddingLeft="10dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="3dp">
+
+            <TextView android:id="@+id/result_textview_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:layout_gravity="left"
+                android:layout_weight="1"
+                android:paddingLeft="10dp" />
+
+            <TextView android:id="@+id/result_textview_distance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textColor="#BEC0C2"
+                android:layout_gravity="right"
+                android:paddingRight="10dp" />
+        </LinearLayout>
+
+
+        <TextView android:id="@+id/result_textview_keyword"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="5dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
+<!-- From: file:/Users/huangruizhe/PKU/androidWorkspace/ShakeFinder/sample/res/layout/resultlist.xml -->
